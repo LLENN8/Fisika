@@ -1,7 +1,8 @@
----
-title: "Fisika"
----
+# Selamat Datang{.unnumbered}
 
-This is a Quarto website.
+:::{.epigraph}
+> Somewhere, something incredible is waiting to be known."
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-- Carl Sagan
+:::
+
