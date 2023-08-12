@@ -1,4 +1,6 @@
-# Selamat Datang{.unnumbered}
+---
+title: "Selamat Datang"
+---
 
 :::{.epigraph}
 > Somewhere, something incredible is waiting to be known."
@@ -6,3 +8,11 @@
 -- Carl Sagan
 :::
 
+Selamat datang di situs fisika ini. Situs ini didedikasikan sebagai sumber pembelajaran terbuka, yang dirancang dengan tujuan memberikan tambahan materi dalam pembelajaran fisika. Dalam pembuatan situs ini, penulis berharap dapat membantu meningkatkan pemahaman Anda tentang konsep-konsep fisika yang kadang kompleks.
+
+Selain itu, situs ini juga menjadi wadah bagi penulis untuk mengasah kemampuan dalam menulis, serta mencatat berbagai pengalaman dan pemahaman pribadi dalam belajar fisika. Semoga konten yang disajikan dapat memberi manfaat dan memberikan inspirasi bagi pembelajar fisika di berbagai tingkatan. Terima kasih atas kunjungan Anda, dan selamat mengeksplorasi situs ini!
+
+:::{.callout-note appearance="simple"} 
+## Catatan
+Dalam proses penulisan situs ini, mungkin terjadi kesalahan baik secara penulisan maupun secara teori fisika. Untuk itu, apabila Anda menemui kesalahan atau memiliki masukan yang dapat membantu perbaikan konten, penulis sangat mengapresiasi kontribusi Anda.
+:::

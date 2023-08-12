@@ -38,11 +38,10 @@ website:
         contents:
           - index.qmd
           - tentang-penulis.qmd
-      - section: "Layout"
+      - section: "Pengukuran"
         contents:
-          - layout.qmd
-          - layout-knitr.qmd
-          - layout-jupyter.qmd
+          - Pengukuran-Fisika.qmd
+          - Alat-ukur.qmd
 
 format:
   html:
