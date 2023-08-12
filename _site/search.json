@@ -2,14 +2,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Fisika",
+    "title": "Selamat Datang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Selamat Datang\n\n\nSomewhere, something incredible is waiting to be known.”\n\n– Carl Sagan"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "tentang-penulis.html",
+    "href": "tentang-penulis.html",
+    "title": "Tentang Penulis",
     "section": "",
     "text": "About this site"
   }

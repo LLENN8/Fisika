@@ -1,19 +1,51 @@
 project:
   type: website
-
+  
 website:
   title: "Fisika"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  site-url: fisika-lovat.vercel.app
+  page-navigation: true
+  page-footer:
+    left: |
+      Powered by
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+    center:
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
+
+    right:
+      - icon: https://raw.githubusercontent.com/misskey-dev/assets/main/icon.png
+        href: https://twitter.com/quarto_pub
+        aria-label: Quarto Twitter
+      - icon: github
+        href: https://github.com/LLENN8/Fisika
+        aria-label: Quarto GitHub
+  sidebar:
+    style: "docked" 
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/LLENN8/Fisika
+          - text: Report a Bug
+            url:  https://bugs.com
+    contents:
+      - section: "Pengantar"
+        contents:
+          - index.qmd
+          - tentang-penulis.qmd
+      - section: "Layout"
+        contents:
+          - layout.qmd
+          - layout-knitr.qmd
+          - layout-jupyter.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
