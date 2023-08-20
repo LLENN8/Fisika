@@ -4,7 +4,7 @@ project:
 website:
   title: "Fisika"
   repo-url: https://github.com/LLENN8/Fisika
-  repo-actions: [edit, issue]
+  repo-actions: [issue]
 
   site-url: fisika-lovat.vercel.app
   page-navigation: true
