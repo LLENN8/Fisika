@@ -1,5 +1,29 @@
----
-title: "Tentang Penulis"
----
 
-About this site
+---
+title: "Misaka"
+about:
+  id: hero-heading
+  template: jolla
+  image: misaka.png
+  links:
+    - icon: misskey
+      text: Misskey
+      href: https://misskey.io/@LLENN08
+    - icon: github
+      text: Github
+      href: https://github.com/LLENN8
+    - icon: envelope-fill
+      text: Email
+      href: "mailto: cyrokotomi@gmail.com"
+---
+# Tentang Penulis
+
+:::{#hero-heading}
+halo, saya Misaka (bukan nama sebenarnya) adalah seorang self-taught programmer yang berfokus pada android developer dan mahasiswa pendidikan fisika. memiliki hobi menonton anime diwaktu senggang
+
+## Education
+
+University Negeri Jakarta | S1 Pendidikan Fisika | 2021 - sekarang
+
+:::
+

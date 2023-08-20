@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Selamat Datang",
-    "section": "",
-    "text": "Somewhere, something incredible is waiting to be known.”\n\n– Carl Sagan\n\nSelamat datang di situs fisika ini. Situs ini didedikasikan sebagai sumber pembelajaran terbuka, yang dirancang dengan tujuan memberikan tambahan materi dalam pembelajaran fisika. Dalam pembuatan situs ini, penulis berharap dapat membantu meningkatkan pemahaman Anda tentang konsep-konsep fisika yang kadang kompleks.\nSelain itu, situs ini juga menjadi wadah bagi penulis untuk mengasah kemampuan dalam menulis, serta mencatat berbagai pengalaman dan pemahaman pribadi dalam belajar fisika. Semoga konten yang disajikan dapat memberi manfaat dan memberikan inspirasi bagi pembelajar fisika di berbagai tingkatan. Terima kasih atas kunjungan Anda, dan selamat mengeksplorasi situs ini!\n\n\n\n\n\n\nCatatan\n\n\n\nDalam proses penulisan situs ini, mungkin terjadi kesalahan baik secara penulisan maupun secara teori fisika. Untuk itu, apabila Anda menemui kesalahan atau memiliki masukan yang dapat membantu perbaikan konten, penulis sangat mengapresiasi kontribusi Anda."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -16,8 +9,29 @@
   {
     "objectID": "tentang-penulis.html",
     "href": "tentang-penulis.html",
+    "title": "Misaka",
+    "section": "",
+    "text": "halo, saya Misaka (bukan nama sebenarnya) adalah seorang self-taught programmer yang berfokus pada android developer dan mahasiswa pendidikan fisika. memiliki hobi menonton anime diwaktu senggang\n\n\nUniversity Negeri Jakarta | S1 Pendidikan Fisika | 2021 - sekarang\n\n \n  \n   \n  \n    \n     Misskey\n  \n  \n    \n     Github\n  \n  \n    \n     Email"
+  },
+  {
+    "objectID": "tentang-penulis.html#education",
+    "href": "tentang-penulis.html#education",
+    "title": "Misaka",
+    "section": "",
+    "text": "University Negeri Jakarta | S1 Pendidikan Fisika | 2021 - sekarang"
+  },
+  {
+    "objectID": "tentang-penulis.html#experience",
+    "href": "tentang-penulis.html#experience",
+    "title": "Misaka",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "tentang-penulis.html#finley-malloc",
+    "href": "tentang-penulis.html#finley-malloc",
     "title": "Tentang Penulis",
     "section": "",
-    "text": "About this site"
+    "text": "about: id: hero-heading template: jolla image: misaka.png links: - icon: twitter text: twitter href: https://twitter.com - icon: github text: Github href: https://github.com\n\n\n\nFinley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
   }
 ]

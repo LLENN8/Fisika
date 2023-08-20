@@ -5,13 +5,12 @@ website:
   title: "Fisika"
   site-url: fisika-lovat.vercel.app
   page-navigation: true
+  description: "sebuah website untuk sumber terbuka pembelajaran fisika"
   page-footer:
-    left: |
+    left: 
       Powered by
       [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
     center:
-      - text: "About"
-        href: about.qmd
       - text: "License"
         href: license.qmd
 
@@ -23,25 +22,21 @@ website:
         href: https://github.com/LLENN8/Fisika
         aria-label: Quarto GitHub
   sidebar:
-    style: "docked" 
-    tools:
-      - icon: twitter
-        href: https://twitter.com
-      - icon: github
-        menu:
-          - text: Source Code
-            url:  https://github.com/LLENN8/Fisika
-          - text: Report a Bug
-            url:  https://bugs.com
+    style: "docked"  
     contents:
       - section: "Pengantar"
         contents:
-          - index.qmd
-          - tentang-penulis.qmd
+          - text: "Selamat Datang"
+            file: index.qmd
+          - text: "Tentang Penulis"
+            file: tentang-penulis.qmd
       - section: "Pengukuran"
         contents:
-          - Pengukuran-Fisika.qmd
-          - Alat-ukur.qmd
+          - text: "Pengukuran Fisika"
+            file: Pengukuran-Fisika.qmd
+          - text: "Alat-ukur"
+            file: Alat-ukur.qmd
+    
 
 format:
   html:
