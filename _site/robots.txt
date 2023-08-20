@@ -1,1 +1,1 @@
-Sitemap: fisika-lovat.vercel.app/sitemap.xml
+Sitemap: https://misaka-fisika.vercel.app/sitemap.xml

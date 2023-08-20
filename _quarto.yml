@@ -6,7 +6,7 @@ website:
   repo-url: https://github.com/LLENN8/Fisika
   repo-actions: [issue]
 
-  site-url: fisika-lovat.vercel.app
+  site-url: https://misaka-fisika.vercel.app
   page-navigation: true
   description: "sebuah website untuk sumber terbuka pembelajaran fisika"
   page-footer:
