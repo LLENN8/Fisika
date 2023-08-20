@@ -1,37 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "tentang-penulis.html",
-    "href": "tentang-penulis.html",
+    "objectID": "main/tentang-penulis.html",
+    "href": "main/tentang-penulis.html",
     "title": "Misaka",
     "section": "",
     "text": "halo, saya Misaka (bukan nama sebenarnya) adalah seorang self-taught programmer yang berfokus pada android developer dan mahasiswa pendidikan fisika. memiliki hobi menonton anime diwaktu senggang\n\n\nUniversity Negeri Jakarta | S1 Pendidikan Fisika | 2021 - sekarang\n\n \n  \n   \n  \n    \n     Misskey\n  \n  \n    \n     Github\n  \n  \n    \n     Email"
   },
   {
-    "objectID": "tentang-penulis.html#education",
-    "href": "tentang-penulis.html#education",
+    "objectID": "main/tentang-penulis.html#education",
+    "href": "main/tentang-penulis.html#education",
     "title": "Misaka",
     "section": "",
     "text": "University Negeri Jakarta | S1 Pendidikan Fisika | 2021 - sekarang"
-  },
-  {
-    "objectID": "tentang-penulis.html#experience",
-    "href": "tentang-penulis.html#experience",
-    "title": "Misaka",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
-    "objectID": "tentang-penulis.html#finley-malloc",
-    "href": "tentang-penulis.html#finley-malloc",
-    "title": "Tentang Penulis",
-    "section": "",
-    "text": "about: id: hero-heading template: jolla image: misaka.png links: - icon: twitter text: twitter href: https://twitter.com - icon: github text: Github href: https://github.com\n\n\n\nFinley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
   }
 ]

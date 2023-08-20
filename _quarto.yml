@@ -32,15 +32,15 @@ website:
       - section: "Pengantar"
         contents:
           - text: "Selamat Datang"
-            file: index.qmd
+            file: main/index.qmd
           - text: "Tentang Penulis"
-            file: tentang-penulis.qmd
+            file: main/tentang-penulis.qmd
       - section: "1. Pengukuran"
         contents:
           - text: "Pengukuran Fisika"
-            file: pengukuran-fisika.qmd
+            file: main/pengukuran-fisika.qmd
           - text: "Alat-ukur"
-            file: alat-ukur.qmd
+            file: main/alat-ukur.qmd
     
 
 format:
