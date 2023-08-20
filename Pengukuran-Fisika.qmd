@@ -1,7 +1,0 @@
----
-title: "Pengukuran Fisika"
-author: "Misaka"
-date: "20/08/2023"
-draft: true
----
-

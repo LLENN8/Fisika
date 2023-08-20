@@ -3,6 +3,9 @@ project:
   
 website:
   title: "Fisika"
+  repo-url: https://github.com/LLENN8/Fisika
+  repo-actions: [edit, issue]
+
   site-url: fisika-lovat.vercel.app
   page-navigation: true
   description: "sebuah website untuk sumber terbuka pembelajaran fisika"
@@ -22,7 +25,9 @@ website:
         href: https://github.com/LLENN8/Fisika
         aria-label: Quarto GitHub
   sidebar:
-    style: "docked"  
+    style: "docked"
+    tools:
+      - icon: brightness-high-fill  
     contents:
       - section: "Pengantar"
         contents:
@@ -30,16 +35,18 @@ website:
             file: index.qmd
           - text: "Tentang Penulis"
             file: tentang-penulis.qmd
-      - section: "Pengukuran"
+      - section: "1. Pengukuran"
         contents:
           - text: "Pengukuran Fisika"
-            file: Pengukuran-Fisika.qmd
+            file: pengukuran-fisika.qmd
           - text: "Alat-ukur"
-            file: Alat-ukur.qmd
+            file: alat-ukur.qmd
     
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
