@@ -48,20 +48,6 @@ format:
       dark: darkly
     css: styles.css
     toc: true
-    include-after-body: 
-      - text: |
-          <script src="https://giscus.app/client.js"
-                  data-repo="LLENN8/web-fisika-comment"
-                  data-repo-id="LLENN8/web-fisika-comment"
-                  data-category="LLENN8/web-fisika-comment"
-                  data-category-id="LLENN8/web-fisika-comment"
-                  data-mapping="pathname"
-                  data-strict="0"
-                  data-reactions-enabled="1"
-                  data-emit-metadata="0"
-                  data-input-position="bottom"
-                  data-theme="preferred_color_scheme"
-                  data-lang="en"
-                  crossorigin="anonymous"
-                  async>
-          </script>
+    comments:
+      utterances:
+        repo: LLENN8/web-fisika-comment
