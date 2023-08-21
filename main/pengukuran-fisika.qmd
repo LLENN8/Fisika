@@ -4,10 +4,10 @@ author: "Misaka"
 date: "08/20/2023"
 ---
 
-Fisika dalam mempelajari materi beserta perilakunya dan energi didasarkan oleh pengukuran dan perbandingan. Oleh karena itu, dibutuhkan aturan yang jelas dalam bagaimana sesuatu diukur dan dibandingkan. Untuk itu, harus ada suatu hal yang menjadi tolak ukur utama atau standart pengukuran.
+Fisika dalam mempelajari materi beserta perilakunya dan energi didasarkan oleh pengukuran dan perbandingan. Oleh karena itu, dibutuhkan aturan yang jelas dalam bagaimana sesuatu diukur dan dibandingkan. Untuk itu, harus ada suatu hal yang menjadi tolak ukur utama atau standar pengukuran.
 
 ## Besaran Fisika
-Fisika ditemukan dengan mempelajari dan mengukur kuantitas tertentu bedasarkan sifat-sifat fisika. Menjadi pertanyaannya adalah kuantitas apa yang di ukur? Fisikawan dunia menyepakati ada tujuh besaran fisika utama dalam pengukuran besaerta satuannya, yaitu
+Fisika ditemukan dengan mempelajari dan mengukur kuantitas tertentu bedasarkan sifat-sifat fisika. Menjadi pertanyaannya adalah kuantitas apa yang di ukur? Fisikawan dunia menyepakati ada tujuh besaran fisika utama dalam pengukuran beserta satuannya, yaitu
 
 | Besaran           | Satuan   | Simbol | Dimensi|
 |-------------------|:---------|-------:|:------:|
@@ -19,5 +19,6 @@ Fisika ditemukan dengan mempelajari dan mengukur kuantitas tertentu bedasarkan s
 | Jumlah Zat        | mol      | mol    | [N]    |
 | Intensitas Cahaya | kandela  | cd     | [J]    |
 
-: Tabel 1.1 Besaran pokok dan Satuannya dalam SI (standart internasional)
-    
+: Tabel 1.1 Besaran pokok dan Satuannya dalam SI (standar internasional)
+
+## Satuan 
