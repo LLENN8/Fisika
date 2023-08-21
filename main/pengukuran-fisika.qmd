@@ -2,7 +2,6 @@
 title: "Pengukuran Fisika"
 author: "Misaka"
 date: "08/20/2023"
-draft: true
 ---
 
 Fisika dalam mempelajari materi beserta perilakunya dan energi didasarkan oleh pengukuran dan perbandingan. Oleh karena itu, dibutuhkan aturan yang jelas dalam bagaimana sesuatu diukur dan dibandingkan. Untuk itu, harus ada suatu hal yang menjadi tolak ukur utama atau standart pengukuran.

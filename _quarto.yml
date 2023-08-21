@@ -15,7 +15,7 @@ website:
       [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
     center:
       - text: "License"
-        href: license.qmd
+        href: https://github.com/LLENN8/Fisika/blob/master/LICENSE
 
     right:
       - icon: https://raw.githubusercontent.com/misskey-dev/assets/main/icon.png
@@ -32,16 +32,7 @@ website:
       - section: "Pengantar"
         contents:
           - text: "Selamat Datang"
-            file: main/index.qmd
-          - text: "Tentang Penulis"
-            file: main/tentang-penulis.qmd
-      - section: "1. Pengukuran"
-        contents:
-          - text: "Pengukuran Fisika"
-            file: main/pengukuran-fisika.qmd
-          - text: "Alat-ukur"
-            file: main/alat-ukur.qmd
-    
+
 
 format:
   html:

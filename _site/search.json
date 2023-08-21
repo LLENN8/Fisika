@@ -12,5 +12,26 @@
     "title": "Misaka",
     "section": "",
     "text": "University Negeri Jakarta | S1 Pendidikan Fisika | 2021 - sekarang"
+  },
+  {
+    "objectID": "main/index.html",
+    "href": "main/index.html",
+    "title": "Selamat Datang",
+    "section": "",
+    "text": "Somewhere, something incredible is waiting to be known.”\n\n– Carl Sagan\n\nSelamat datang di situs fisika ini. Situs ini didedikasikan sebagai sumber pembelajaran terbuka, yang dirancang dengan tujuan memberikan tambahan materi dalam pembelajaran fisika. Dalam pembuatan situs ini, penulis berharap dapat membantu meningkatkan pemahaman Anda tentang konsep-konsep fisika yang kadang kompleks.\nSelain itu, situs ini juga menjadi wadah bagi penulis untuk mengasah kemampuan dalam menulis, serta mencatat berbagai pengalaman dan pemahaman pribadi dalam belajar fisika. Semoga konten yang disajikan dapat memberi manfaat dan memberikan inspirasi bagi pembelajar fisika di berbagai tingkatan. Terima kasih atas kunjungan Anda, dan selamat mengeksplorasi situs ini!\n\n\n\n\n\n\nCatatan\n\n\n\nDalam proses penulisan situs ini, mungkin terjadi kesalahan baik secara penulisan maupun secara teori fisika. Untuk itu, apabila Anda menemui kesalahan atau memiliki masukan yang dapat membantu perbaikan konten, penulis sangat mengapresiasi kontribusi Anda."
+  },
+  {
+    "objectID": "main/pengukuran-fisika.html",
+    "href": "main/pengukuran-fisika.html",
+    "title": "Pengukuran Fisika",
+    "section": "",
+    "text": "Fisika dalam mempelajari materi beserta perilakunya dan energi didasarkan oleh pengukuran dan perbandingan. Oleh karena itu, dibutuhkan aturan yang jelas dalam bagaimana sesuatu diukur dan dibandingkan. Untuk itu, harus ada suatu hal yang menjadi tolak ukur utama atau standart pengukuran."
+  },
+  {
+    "objectID": "main/pengukuran-fisika.html#besaran-fisika",
+    "href": "main/pengukuran-fisika.html#besaran-fisika",
+    "title": "Pengukuran Fisika",
+    "section": "Besaran Fisika",
+    "text": "Besaran Fisika\nFisika ditemukan dengan mempelajari dan mengukur kuantitas tertentu bedasarkan sifat-sifat fisika. Menjadi pertanyaannya adalah kuantitas apa yang di ukur? Fisikawan dunia menyepakati ada tujuh besaran fisika utama dalam pengukuran besaerta satuannya, yaitu\n\nTabel 1.1 Besaran pokok dan Satuannya dalam SI (standart internasional)\n\n\nBesaran\nSatuan\nSimbol\nDimensi\n\n\n\n\nPanjang\nmeter\nm\n[L]\n\n\nMassa\nkilogram\nkg\n[M]\n\n\nWaktu\nsekon\ns\n[T]\n\n\nArus Listrik\nampere\nA\n[I]\n\n\nSuhu\nkelvin\nK\n[θ]\n\n\nJumlah Zat\nmol\nmol\n[N]\n\n\nIntensitas Cahaya\nkandela\ncd\n[J]"
   }
 ]
