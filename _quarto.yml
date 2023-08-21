@@ -48,6 +48,6 @@ format:
       dark: darkly
     css: styles.css
     toc: true
-    comments: 
-      utterances: 
-        repo:  LLENN8/fisika-comment
+    comments:
+      giscus: 
+        repo: LLENN8/fisika-comment
