@@ -32,7 +32,15 @@ website:
       - section: "Pengantar"
         contents:
           - text: "Selamat Datang"
+            file: main/index.qmd
+          - text: "Tentang Penulis"
+            file: main/tentang-penulis.qmd
+      - section: "1. Pengukuran"
+        contents:
+          - text: "Pengukuran Fisika"
+            file: main/pengukuran-fisika.qmd
 
+    
 
 format:
   html:
