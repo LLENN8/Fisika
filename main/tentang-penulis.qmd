@@ -20,11 +20,11 @@ about:
 # Tentang Penulis
 
 :::{#hero-heading}
-halo, saya Misaka (bukan nama sebenarnya) adalah seorang self-taught programmer yang berfokus pada android developer dan mahasiswa pendidikan fisika. memiliki hobi menonton anime diwaktu senggang
+halo, saya Misaka (bukan nama sebenarnya) adalah seorang mahasiswa pendidikan fisika yang sedang belajar menjadi pengembang aplikasi android. memiliki hobi menonton anime diwaktu senggang
 
 ## Education
 
-University Negeri Jakarta | S1 Pendidikan Fisika | 2021 - sekarang
+University Negeri Jakarta | S1 Pendidikan Fisika | 202x - sekarang
 
 :::
 

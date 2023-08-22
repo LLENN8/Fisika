@@ -1,5 +1,5 @@
 ---
-title: "Pengukuran Fisika"
+title: "Besaran Pokok Fisika"
 author: "Misaka"
 date: "08/20/2023"
 ---
@@ -19,6 +19,15 @@ Fisika ditemukan dengan mempelajari dan mengukur kuantitas tertentu bedasarkan s
 | Jumlah Zat        | mol      | mol    | [N]    |
 | Intensitas Cahaya | kandela  | cd     | [J]    |
 
-: Tabel 1.1 Besaran pokok dan Satuannya dalam SI (standar internasional)
+: Tabel 1.1 Besaran Pokok dan Satuan Baku-nya dalam SI (standar internasional)
 
-## Satuan 
+## Satuan
+Bayangkan bagaimana kita mengetahui ukuran dari besaran-beasaran pokok, misalnya seberapa tinggi kamu,apakah 4 kaki? atau 5 kaki? menurut panjang kaki ku tinggi kamu sejumlah 4 kaki, tapi menurut kaki mu tinggi kamu sejumlah 5 kaki? ternyata panjang kaki ku dan kaki mu berbeda, jadi mana yang benar? 
+
+Dari zaman kuno manusia-manusia berdagang menggunakan satuan yang berbeda, misalnya jengkal, hasta untuk menghitung panjang, maupun diindonesia menggunakan gantang sebagain satuan berat. satuan-satuan ini disebut satuan tidak baku karena hanya disepakati sekelompok manusia atau bahkan tidak memiliki standar yang jelas sehingga sulit sekali bahkan jika di pakai untuk melakukan perdagangan maupun penelitian-penelitian secara internasional.  untuk itu fisikawan dunia sepakat untuk membuat satuan baku untuk mengukur besaran-besaran pokok.
+
+Satuan baku dalam ilmu fisika dipatenkan secara internasional sejak 20 Mei 1875, di Prancis oleh komunitas khusus ilmuwan dunia yang bernama Lembaga Berat dan Ukuran Internasional (Inggris: The International Bureau of Weights and Measures) (Prancis: Bureau international des poids et mesures, BIPM). Satuan baku adalah satuan yang ditentukan secara resmi oleh para ilmuwan dan dijadikan standar acuan, satuan ini jika diukur oleh orang yang berbeda akan tetap menghasilkan pengukuran yang sama. satuan-satuan baku dapat dilihat pada tabel 1.1. 
+
+Untuk mengetahuhi sejarah dan alasan mengapa sistem pengukuran internasional yang diadopsi itu penting lebih lanjut dapat menonton video berikut (tersedia subtitle Indonesia)
+
+{{< video https://www.youtube.com/embed/7bUVjJWA6Vw >}}

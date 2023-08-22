@@ -1,0 +1,22 @@
+---
+title: "Perkenalan Fisika"
+author: "Misaka"
+date: "08/22/2023"
+---
+## Apa itu fisika
+Fisika berasal dari bahasa Yunani 'fusis' yang bearti alam. Aristotle mengenalkan kata ini pada 350 SM.Pada dasarnya Fisika ilmu yang mempelajari hukum yang mengatur cara kerja dunia. Orang yang ahli dalam disiplin fisika disebut sebagai Fisikawan. Fisikawan mencoba menjelaskan keragaman pengalaman alam dalam konsep yang kuat dan berguna. 
+
+Fisika merupakan salah satu cabang ilmu pengetahuan alam yang berfokus mempelajari materi berserta perilakunya dan energi. Fisika dalam menjadi ilmu alam tentunya harus mengikuti kaidah-kaidah agar terbukti teori-teori maupun hukumnya, yaitu
+
+
+*   Pengamatan yang cermat dan sistematis
+*   Eksperiment yang terkontrol
+*   Penalaran logis dan kuantitatif
+*   Pembentukan teori dan pemodelan matematika
+*   Memverifikasi teori menggunakan eksperimen yang relevan
+*   Koreksi teori jika ada kesalahan
+
+:::{.callout-note appearance="simple"} 
+## Catatan
+Halaman ini masih dalam pengembangan, penulis sedang mencari referensi sejarah bagaimana fisika terbentuk pada zaman yunani kuno 
+:::

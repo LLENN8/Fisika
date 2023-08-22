@@ -34,9 +34,13 @@ website:
             file: main/index.qmd
           - text: "Tentang Penulis"
             file: main/tentang-penulis.qmd
-      - section: "1. Pengukuran"
+      - section: "1. Sejarah Singkat Fisika"
         contents:
-          - text: "Pengukuran Fisika"
+          - text: "Apa itu Fisika?"
+            file: main/apa-itu-fisika.qmd
+      - section: "2. Pengukuran Fisika"
+        contents:
+          - text: "Besaran Pokok Fisika"
             file: main/pengukuran-fisika.qmd
 
     

@@ -4,14 +4,14 @@
     "href": "main/tentang-penulis.html",
     "title": "Misaka",
     "section": "",
-    "text": "halo, saya Misaka (bukan nama sebenarnya) adalah seorang self-taught programmer yang berfokus pada android developer dan mahasiswa pendidikan fisika. memiliki hobi menonton anime diwaktu senggang\n\n\nUniversity Negeri Jakarta | S1 Pendidikan Fisika | 2021 - sekarang\n\n \n  \n   \n  \n    \n     Misskey\n  \n  \n    \n     Github\n  \n  \n    \n     Email"
+    "text": "halo, saya Misaka (bukan nama sebenarnya) adalah seorang mahasiswa pendidikan fisika yang sedang belajar menjadi pengembang aplikasi android. memiliki hobi menonton anime diwaktu senggang\n\n\nUniversity Negeri Jakarta | S1 Pendidikan Fisika | 202x - sekarang\n\n \n  \n   \n  \n    \n     Misskey\n  \n  \n    \n     Github\n  \n  \n    \n     Email"
   },
   {
     "objectID": "main/tentang-penulis.html#education",
     "href": "main/tentang-penulis.html#education",
     "title": "Misaka",
     "section": "",
-    "text": "University Negeri Jakarta | S1 Pendidikan Fisika | 2021 - sekarang"
+    "text": "University Negeri Jakarta | S1 Pendidikan Fisika | 202x - sekarang"
   },
   {
     "objectID": "main/index.html",
@@ -23,22 +23,36 @@
   {
     "objectID": "main/pengukuran-fisika.html",
     "href": "main/pengukuran-fisika.html",
-    "title": "Pengukuran Fisika",
+    "title": "Besaran Pokok Fisika",
     "section": "",
     "text": "Fisika dalam mempelajari materi beserta perilakunya dan energi didasarkan oleh pengukuran dan perbandingan. Oleh karena itu, dibutuhkan aturan yang jelas dalam bagaimana sesuatu diukur dan dibandingkan. Untuk itu, harus ada suatu hal yang menjadi tolak ukur utama atau standar pengukuran."
   },
   {
     "objectID": "main/pengukuran-fisika.html#besaran-fisika",
     "href": "main/pengukuran-fisika.html#besaran-fisika",
-    "title": "Pengukuran Fisika",
+    "title": "Besaran Pokok Fisika",
     "section": "Besaran Fisika",
-    "text": "Besaran Fisika\nFisika ditemukan dengan mempelajari dan mengukur kuantitas tertentu bedasarkan sifat-sifat fisika. Menjadi pertanyaannya adalah kuantitas apa yang di ukur? Fisikawan dunia menyepakati ada tujuh besaran fisika utama dalam pengukuran beserta satuannya, yaitu\n\nTabel 1.1 Besaran pokok dan Satuannya dalam SI (standar internasional)\n\n\nBesaran\nSatuan\nSimbol\nDimensi\n\n\n\n\nPanjang\nmeter\nm\n[L]\n\n\nMassa\nkilogram\nkg\n[M]\n\n\nWaktu\nsekon\ns\n[T]\n\n\nArus Listrik\nampere\nA\n[I]\n\n\nSuhu\nkelvin\nK\n[θ]\n\n\nJumlah Zat\nmol\nmol\n[N]\n\n\nIntensitas Cahaya\nkandela\ncd\n[J]"
+    "text": "Besaran Fisika\nFisika ditemukan dengan mempelajari dan mengukur kuantitas tertentu bedasarkan sifat-sifat fisika. Menjadi pertanyaannya adalah kuantitas apa yang di ukur? Fisikawan dunia menyepakati ada tujuh besaran fisika utama dalam pengukuran beserta satuannya, yaitu\n\nTabel 1.1 Besaran Pokok dan Satuan Baku-nya dalam SI (standar internasional)\n\n\nBesaran\nSatuan\nSimbol\nDimensi\n\n\n\n\nPanjang\nmeter\nm\n[L]\n\n\nMassa\nkilogram\nkg\n[M]\n\n\nWaktu\nsekon\ns\n[T]\n\n\nArus Listrik\nampere\nA\n[I]\n\n\nSuhu\nkelvin\nK\n[θ]\n\n\nJumlah Zat\nmol\nmol\n[N]\n\n\nIntensitas Cahaya\nkandela\ncd\n[J]"
   },
   {
     "objectID": "main/pengukuran-fisika.html#satuan",
     "href": "main/pengukuran-fisika.html#satuan",
-    "title": "Pengukuran Fisika",
+    "title": "Besaran Pokok Fisika",
     "section": "Satuan",
-    "text": "Satuan"
+    "text": "Satuan\nBayangkan bagaimana kita mengetahui ukuran dari besaran-beasaran pokok, misalnya seberapa tinggi kamu,apakah 4 kaki? atau 5 kaki? menurut panjang kaki ku tinggi kamu sejumlah 4 kaki, tapi menurut kaki mu tinggi kamu sejumlah 5 kaki? ternyata panjang kaki ku dan kaki mu berbeda, jadi mana yang benar?\nDari zaman kuno manusia-manusia berdagang menggunakan satuan yang berbeda, misalnya jengkal, hasta untuk menghitung panjang, maupun diindonesia menggunakan gantang sebagain satuan berat. satuan-satuan ini disebut satuan tidak baku karena hanya disepakati sekelompok manusia atau bahkan tidak memiliki standar yang jelas sehingga sulit sekali bahkan jika di pakai untuk melakukan perdagangan maupun penelitian-penelitian secara internasional. untuk itu fisikawan dunia sepakat untuk membuat satuan baku untuk mengukur besaran-besaran pokok.\nSatuan baku dalam ilmu fisika dipatenkan secara internasional sejak 20 Mei 1875, di Prancis oleh komunitas khusus ilmuwan dunia yang bernama Lembaga Berat dan Ukuran Internasional (Inggris: The International Bureau of Weights and Measures) (Prancis: Bureau international des poids et mesures, BIPM). Satuan baku adalah satuan yang ditentukan secara resmi oleh para ilmuwan dan dijadikan standar acuan, satuan ini jika diukur oleh orang yang berbeda akan tetap menghasilkan pengukuran yang sama. satuan-satuan baku dapat dilihat pada tabel 1.1.\nUntuk mengetahuhi sejarah dan alasan mengapa sistem pengukuran internasional yang diadopsi itu penting lebih lanjut dapat menonton video berikut (tersedia subtitle Indonesia)"
+  },
+  {
+    "objectID": "main/apa-itu-fisika.html",
+    "href": "main/apa-itu-fisika.html",
+    "title": "Perkenalan Fisika",
+    "section": "",
+    "text": "Fisika berasal dari bahasa Yunani ‘fusis’ yang bearti alam. Aristotle mengenalkan kata ini pada 350 SM.Pada dasarnya Fisika ilmu yang mempelajari hukum yang mengatur cara kerja dunia. Orang yang ahli dalam disiplin fisika disebut sebagai Fisikawan. Fisikawan mencoba menjelaskan keragaman pengalaman alam dalam konsep yang kuat dan berguna.\nFisika merupakan salah satu cabang ilmu pengetahuan alam yang berfokus mempelajari materi berserta perilakunya dan energi. Fisika dalam menjadi ilmu alam tentunya harus mengikuti kaidah-kaidah agar terbukti teori-teori maupun hukumnya, yaitu\n\nPengamatan yang cermat dan sistematis\nEksperiment yang terkontrol\nPenalaran logis dan kuantitatif\nPembentukan teori dan pemodelan matematika\nMemverifikasi teori menggunakan eksperimen yang relevan\nKoreksi teori jika ada kesalahan\n\n\n\n\n\n\n\nCatatan\n\n\n\nHalaman ini masih dalam pengembangan, penulis sedang mencari referensi sejarah bagaimana fisika terbentuk pada zaman yunani kuno"
+  },
+  {
+    "objectID": "main/apa-itu-fisika.html#apa-itu-fisika",
+    "href": "main/apa-itu-fisika.html#apa-itu-fisika",
+    "title": "Perkenalan Fisika",
+    "section": "",
+    "text": "Fisika berasal dari bahasa Yunani ‘fusis’ yang bearti alam. Aristotle mengenalkan kata ini pada 350 SM.Pada dasarnya Fisika ilmu yang mempelajari hukum yang mengatur cara kerja dunia. Orang yang ahli dalam disiplin fisika disebut sebagai Fisikawan. Fisikawan mencoba menjelaskan keragaman pengalaman alam dalam konsep yang kuat dan berguna.\nFisika merupakan salah satu cabang ilmu pengetahuan alam yang berfokus mempelajari materi berserta perilakunya dan energi. Fisika dalam menjadi ilmu alam tentunya harus mengikuti kaidah-kaidah agar terbukti teori-teori maupun hukumnya, yaitu\n\nPengamatan yang cermat dan sistematis\nEksperiment yang terkontrol\nPenalaran logis dan kuantitatif\nPembentukan teori dan pemodelan matematika\nMemverifikasi teori menggunakan eksperimen yang relevan\nKoreksi teori jika ada kesalahan\n\n\n\n\n\n\n\nCatatan\n\n\n\nHalaman ini masih dalam pengembangan, penulis sedang mencari referensi sejarah bagaimana fisika terbentuk pada zaman yunani kuno"
   }
 ]
